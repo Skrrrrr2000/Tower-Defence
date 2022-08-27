@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48b902f01eb62394dadbb9e6fd55474a, type: 3}
+  m_Name: FlyingWave
+  m_EditorClassIdentifier: 
+  enemy: {fileID: 7032730977178218895, guid: f67c3ae184ba5ec4f8705f10493ab441, type: 3}
+  rate: 2
+  Name: flyin
